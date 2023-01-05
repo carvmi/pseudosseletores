@@ -1,4 +1,7 @@
-# pseudosseletores
+# Pseudosseletores
+![preview](./preview.png)
+
+🔗 [Click here to access](https://carvmi.github.io/pseudosseletores/)
 ## Technologies 
 - HTML
 - CSS
